@@ -1,0 +1,5 @@
+{
+  "name": "Shape Wars",
+  "description": "A geometric-themed space shooter. Players control a triangle ship to shoot down enemy shapes. The more edges an enemy has, the stronger it is. The final boss is the ultimate shape: a circle.",
+  "requestFramePermissions": []
+}
